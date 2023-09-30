@@ -9,3 +9,6 @@ The issue is more pressing for dataset creators, but it also becomes essential w
 So, it is clear that machine learning models need to delve deeper into the feature extraction and non-linearity of the audio signals to effectively capture the nuanced differences in speech that humans can detect intuitively. Currently, researchers work with audio signals by treating them either as time-series data or using spectrograms to generate numeric and image forms of the audio. All these techniques involve some or the other kind of transformation to the original data, thus making feature loss likely. There is still a need to make machine learning models robust at learning features from audio data – robustness in classification or generation tasks will follow.
 
 For dataset, refer: https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
+                    https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
+                    https://www.kaggle.com/datasets/ejlok1/cremad
+                    https://www.kaggle.com/datasets/ejlok1/surrey-audiovisual-expressed-emotion-savee
